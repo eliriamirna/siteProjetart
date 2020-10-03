@@ -1,0 +1,136 @@
+* {
+    margin-top: 0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    width: 1350px;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    background-color: #ffffff;
+}
+
+.logo {
+    margin-top: 0.3em;
+    margin-left: 5em;
+}
+
+nav ul li {
+    padding-right: 3em;
+    display: inline;
+    margin-left: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: transform .2s;
+}
+
+nav ul li a:hover {
+    color: #00c2cb;
+}
+
+nav a {
+    color: #132235;
+    text-decoration: none;
+}
+
+nav {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-bottom: 1em;
+}
+
+section h1 {
+    margin-bottom: 0;
+    padding-top: 120px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #132235;
+}
+
+section h2 {
+    color: #ffffff;
+    background-color: #132235;
+    text-align: center;
+}
+
+section h3 {
+    margin-top: 50px;
+    font-size: 24px;
+    color: #00c2cb;
+    text-align: center;
+}
+
+section h4 {
+    font-size: 20px;
+    color: #00c2cb;
+    text-align: center;
+}
+
+section p {
+    font-size: 20px;
+    color: #132235;
+    text-align: center;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+section ul li {
+    color: #132235;
+    font-size: 18px;
+    text-align: center;
+}
+
+section figure {
+    padding-left: 100px;
+    
+}
+
+section img {
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-style: solid;
+    border-color: #132235;
+    border-width: 1px;
+    width: 500px;
+}
+
+#casa-fortaleza {
+    padding-top: 60px;
+}
+
+footer {
+    margin-top: 30px;
+    height: 115px;
+    background-color: #132235;
+}
+
+.itens-footer {
+    display: inline-flex;
+}
+
+footer .logo {
+    padding: 5px;
+    
+}
+
+.social {
+    display: inline-flex;
+    align-items: center;
+    padding-left: 100px;
+
+}
+
+.social p {
+    color: #ffffff;
+    padding-left: 200px;
+}
+
+#copyright {
+    background-color: #132235;
+    color: #ffffff;
+    text-align: center;
+}

@@ -1,0 +1,126 @@
+Cabeçalho
+logo
+Home
+Empresa
+Serviços
+Portifólio
+Contato
+orçamento
+
+Empresa - 
+
+Sobre nós
+
+Uma empresa jovem dentro do mercado da construção civil. Temos o objetivo de atender aos nossos clientes de modo personalizado, a fim de suprir às necessidades e expectativas. Realizamos nossos serviços com prazo e custos otimizados, buscando a melhor gestão com solução de qualidade, senso de urgência, excelência e ética. Os produtos oferecidos são: projeto arquitetônico, estrutural, elétrico e hidrossanitário. Trabalhamos também com regularização, combate a incêndio e conduzimos todo o processor de aprovação com a prefeitura. Estamos sempre atentos às novidades e nos preocupamos em conhecer sobre as novas tecnologias da construção civil. E apresentamos um produto exclusivo e diferenciado compatibilizando nossos projetos de acordo com o Building Information Modeling (BIM), em português, Modelagem da Informação da Construção.
+
+Quem Somos
+Josué dos Santos Júnior
+Engenheiro Civil e Gerente de Projetos
+Graduado em engenharia civil em 2017 pela Universidade Adventista de São Paulo - UNASP
+Pós gruaduado em gerenciamento de projetos em 2020 pela Universidade Adventista de São Paulo - UNASP
+
+Jéssica Cristine Correa Crespo
+Enegenheira Cvil e Gerente de Obras
+Graduada em engenharia civil em 2016 pela Universidade Adventista de São Paulo - UNASP
+Pós graduada em estrutura de concreto pela Universidade Adventista de São Paulo - UNASP
+
+Nossos Diferenciais
+Plataforma BIM - Trabalhamos com construção em BIM Building Information Modeling (BIM), em português, Modelagem da Informação da Construção. É o que se tem de mais atual em tecnologia da construção Civil.
+Otimização custo-benefício. Nossos projetos visam uma execução limpa com o objetivo de reduzir os custos de mão de obra e desperdício de materiais. Conta também em otimizar o tempo na construção.
+
+Serviços
+Vamos realizar seu sonho?
+Compatibilização de projetos
+Projeto arquitetônico – O que contêm um projeto arquitetônico?
+    • Informação da obra, do terreno e do responsável técnico;
+    • Planta de locação;
+    • Planta baixa (Projeto executivo com cotas);
+    • Planta de cobertura;
+    • Cortes internos;
+    • Fachada e elevações;
+    • Tabela de esquadrias;
+    • Planta humanizada;
+    • Detalhes construtivos;
+    • Detalhes internos e fachadas em 3D;
+      
+Projeto Estrutural – O que contêm um projeto estrutural?
+    • Durabilidade da estrutura;
+    • Garantia de segurança;
+    • Previsão para futuras ampliações (reformas) e redução de interferências;
+    • Economia: cálculo do custo e racionalização no uso dos materiais;
+    • Compatibilização com outros projetos;
+    • Escolha e aplicação correta do sistema construtivo;
+    • Otimização da mão de obra;
+    • Parâmetro de qualidade da obra;
+
+Projeto de Instalações elétricas – O que contêm um projeto elétrico?
+    • Esquemas de quadros de distribuição com a indicação;
+    • Especificação da posição de tomadas (110V, 220V), interruptores e pontos de iluminação;
+    • Dimensionamento dos circuitos elétricos de maneira que não atinja as tensões máximas pré-estabelecidas pela NBR 5410;
+    • Definição dos pontos de telecomunicação, dados, áudios e segurança;
+    • Detalhes de execução;
+    • 
+Projeto de Instalações hidráulicas – O que contêm um projeto hidráulico?
+    • Definição da posição do hidrômetro, registro e pontos de água fria e quente;
+    • Dimensionamento da tubulação e reservatório de água potável;
+    • Verificação de pressão nos pontos de consumo;
+    • Distribuição da rede sanitária e dimensionamento dos diâmetros e inclinações de acordo com a NBR 8160;
+    • Definição e dimensionamento das caixas de passagem, caixas de gordura, fossas sépticas e filtros;
+    • Distribuição e dimensionamento da rede pluvial seguindo as diretrizes da NBR 10844 e detalhes dos pontos de capacitação para evitar infiltrações.
+
+Regularização – Porque devo fazer o projeto de Regularização? 
+    • Quando o imóvel estiver irregular, é de fundamental importância a sua regularização a fim de legalizar a situação na prefeitura do município em que o mesmo se encontra;
+    • Em uma fiscalização pode ser aplicado uma multa como penalidade em razão da irregularidade do imóvel;
+    • No caso de um comércio irregular, o mesmo pode ser embargado. 
+Gerenciamento de tempo
+Gerenciamento de Custos
+Gerenciamento de Qualidade
+
+Portifólio
+Conheça nossos projetos!
+
+Estação de desenvolvimento colaborativo
+
+Centro de aprendizado, composto por 4 pavimentos, salas de atendimento, biblioteca, salas de estudos, salas de reuniões, auditório, sala de informática e praça de alimentação.
+
+Foto da Casa
+
+Área= 2800,00 m²
+Sistema construtivo: Convencional
+
+•	Modelagem 3D estrutural e arquitetônica
+•	Modelagem dos ambientes internos
+
+Casa Fortaleza
+
+Casa em condomínio residencial, composta por 1 único pavimento, 2 quartos, 1 suíte, sala de jantar, sala de TV, cozinha e espaço gourmet.
+
+Foto da Casa
+
+Área= 180,00 m²
+Sistema construtivo: Light Steel Framing
+
+•	Modelagem 3D
+•	Quantitativos
+•	Projetos em BIM: hidrossanitário e elétrico.
+•	Compatibilização das disciplinas: arquitetônica, hidrossanitária e elétrica.
+
+Instagram
+Acompanhe nossas redes sociais
+conteúdo insta
+
+Contato
+nome
+email
+assunto
+mensagem
+enviar
+
+Footer
+logo
+email
+telefone
+insta
+
+
+

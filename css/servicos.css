@@ -1,0 +1,205 @@
+* {
+    margin-top: 0px;
+    padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    width: 1350px;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    background-color: #ffffff;
+}
+
+.logo {
+    margin-top: 0.3em;
+    margin-left: 5em;
+}
+
+nav ul li {
+    padding-right: 3em;
+    display: inline;
+    margin-left: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: transform .2s;
+}
+
+nav ul li a:hover {
+    color: #00c2cb;
+}
+
+nav a {
+    color: #132235;
+    text-decoration: none;
+}
+
+nav {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-bottom: 1em;
+}
+
+.servicos {
+    background-color: #132235;
+    color: #ffffff;
+}
+
+.servicos h1 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.servicos p {
+    text-align: center;
+    font-size: 22px;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+#servico-arquitetura {
+    font-size: 18px;
+    color: #132235;
+    padding-top: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 400px;
+    
+}
+
+#servico-arquitetura figure {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 50px;
+    float: left;
+}
+
+#servico-arquitetura img {
+width: 400px;
+border-style: groove;
+}
+
+
+#servico-estrutural {
+    font-size: 18px;
+    color: #132235;
+    padding-top: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 400px;
+}   
+
+#servico-estrutural figure {
+    padding-top: 20px;
+    padding-bottom: 60px;
+    padding-left: 150px;
+    padding-right: 50px;
+    float: left;  
+}
+
+#servico-estrutural img {
+    width: 400px;
+    border-style: groove;
+}
+
+#servico-eletrico {
+    font-size: 18px;
+    color: #132235;
+    padding-top: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 350px;
+}   
+
+#servico-eletrico figure {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+    padding-right: 50px;
+    float: left;  
+}
+
+#servico-eletrico img {
+   width: 400px;
+   border-style: groove;
+}
+
+#servico-hidraulico {
+    font-size: 18px;
+    color: #132235;
+    padding-top: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 400px;
+}   
+
+#servico-hidraulico figure {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+    padding-right: 50px;
+    float: left;  
+}
+
+#servico-hidraulico img {
+   width: 400px;
+   border-style: groove;
+}
+
+#servico-regularizacao {
+    font-size: 18px;
+    color: #132235;
+    padding-top: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 400px;
+}   
+
+#servico-regularizacao figure {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+    padding-right: 50px;
+    float: left;  
+}
+
+#servico-regularizacao img {
+   width: 400px;
+   border-style: groove;
+}
+
+
+footer {
+    margin-top: 20px;
+    margin-top: 20px;
+    height: 115px;
+    background-color: #132235;
+}
+
+.itens-footer {
+    display: inline-flex;
+}
+
+footer .logo {
+    padding: 5px;
+}
+
+.social {
+    display: inline-flex;
+    align-items: center;
+    padding-left: 100px;
+}
+
+.social p {
+    color: #ffffff;
+    padding-left: 200px;
+}
+
+#copyright {
+    background-color: #132235;
+    color: #ffffff;
+    text-align: center;
+}
